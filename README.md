@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on working with development teams and project managers product for idealize solutions in software 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/mardoqueu-sousa/)
 - 😄 Pronouns: He/Him
-- 
+
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
