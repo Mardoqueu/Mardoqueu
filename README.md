@@ -21,7 +21,7 @@ My name is Mardoqueu Sousa
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Front-end
+- 🔭 I’m currently working on Front-end and Back-end
 - 🌱 I’m currently learning JavaScript and TypeScript 
 - 👯 I’m looking to collaborate on working with development teams and project managers product for idealize solutions in software 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/mardoqueu-sousa/)
