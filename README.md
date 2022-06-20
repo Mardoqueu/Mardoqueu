@@ -19,7 +19,6 @@
 
 My name is Mardoqueu Sousa
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Front-end and Back-end
 - 🌱 I’m currently learning JavaScript and TypeScript 
