@@ -20,7 +20,7 @@
 <h3> 👨🏻•💻 About Me </h3>
 
 - 🔭 I’m currently working on Front-end
-- 🌱 I’m currently learning JavaScript 
+- 🌱 I’m currently learning React/NextJS 
 - 👯 I’m looking to collaborate on working with development teams and project managers product for idealize solutions in software 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/mardoqueu-sousa/)
 - 😄 Pronouns: He/Him
