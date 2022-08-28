@@ -41,6 +41,8 @@ My name is Mardoqueu Sousa
 ### :fire: My Stats :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mardoqueu&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mardoqueu&layout=compact&theme=vision-friendly-dark" alt="mardoqueu" /></p>
+
 <div id="header" align="center">
  <img src="https://github.com/rafaballerini/rafaballerini/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100%;">
   <div id="badges"> 
