@@ -1,4 +1,4 @@
-### Hi there 👋<h2> I'm Mardoqueu</h2>
+### Hi there 👋<h2> <i> I don’t think we’ve met before, I’m Mardoqueu. </i></h2>
 
 <div id="header" align="right">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  width="230"/>
@@ -16,7 +16,7 @@
       <img src="https://komarev.com/ghpvc/?username=mardoqueu&style=flat-square&color=blue" alt=""/>
 </div>
 
-
+<hr>
 <h3> 👨🏻•💻 About Me </h3>
 
 - 🔭 I’m currently working on Front-end
@@ -31,7 +31,7 @@
 
 <br/><br/>
 
-[![Mardoqueu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mardoqueu&show_icons=true)](https://github.com/Mardoqueu)
+[![Mardoqueu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mardoqueu&show_icons=true )](https://github.com/Mardoqueu)
 
 <br/>
 
@@ -40,7 +40,7 @@
 <img src="https://github.com/nirala69/nirala69/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="350" align='right'>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mardoqueu&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mardoqueu&show_icons=true )
 
 <br/>
 <br/>
