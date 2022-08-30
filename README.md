@@ -1,4 +1,4 @@
-### Hi there 👋<h2><i> we’ve met before, I’m Mardoqueu. </i></h2>
+### Hi there 👋<h2> <i> I’m Mardoqueu, but you can call me, Mike!</i></h2>
 
 <div id="header" align="right">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  width="230"/>
