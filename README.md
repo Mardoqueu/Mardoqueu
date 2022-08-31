@@ -33,9 +33,9 @@
 
 [![Mardoqueu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mardoqueu&show_icons=true )](https://github.com/Mardoqueu)
 
-<hr> 
+ 
 
-<br/>
+
 
 <br/>
 
