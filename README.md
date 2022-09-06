@@ -32,29 +32,36 @@
 
 <br/>
 
+<div id="header" align="center">
+
 [![Mardoqueu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mardoqueu&show_icons=true )](https://github.com/Mardoqueu)
 
- 
+ </div>
 
 
 
 <br/>
 
-<img src="https://github.com/nirala69/nirala69/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="350" align='right'>
 
 <hr>
 <br/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mardoqueu&show_icons=true )
+<img src="https://github.com/nirala69/nirala69/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="350" align='right'>
 
 
 <hr>
 <br/>
 
-
+<div id="header" align="center">
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=mardoqueu&layout=compact&" alt="mardoqueu" /></p>
-
+</div>
 
 <br><br>
 
 <hr>
+<div id="header" align="center">
+
+![Snake animation](https://github.com/victorss47/victorss47/blob/output/github-contribution-grid-snake.svg)
+
+</div>
