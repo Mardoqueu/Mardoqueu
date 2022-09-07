@@ -24,6 +24,24 @@
 - 👯 I’m looking to collaborate on working with development teams and project managers product for idealize solutions in software 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/mardoqueu-sousa/)
 - 😄 Pronouns: He/Him
+
+<hr>
+
+<!--START_SECTION:table-->
+<details>
+<summary>Publications</summary>
+
+
+| Topic | Type | Symposium | Place |
+| :---: | :---: | :---: | :---: |
+| Mapeamento sistemático da literatura brasileira sobre educational data mining e learning analytics | Artigo completo publicado em periódico | Brazilian Journal of Development |  Brazilian Journals Publicações de Periódicos e Editora Ltda |  
+| Code teacher: uma ferramenta para correção automática de trabalhos acadêmicos de programação em Java | Artigo completo publicado em periódico | Brazilian Journal of Development | Brazilian Journals Publicações de Periódicos e Editora Ltda |
+| Protótipo de um Sistema De Irrigação Baseado em IOT para Pequenos e Médios Produtores Rurais | Artigo completo publicado em periódico | ACTA TECNOLÓGICA | Pedreiras-MA |
+| OS 13 PORQUÊS DE VOCÊ NÃO APRENDER INGLÊS. 1. ed. | Livro publicado | Editora Vecchio | ASIN - B08DCTQFB2|
+|  CODETEACHER: UMA FERRAMENTA PARA CORREÇÃO AUTOMÁTICA DE TRABALHOS ACADÊMICOS DE PROGRAMAÇÃO EM JAVA. Princípios e Aplicações da Computação no Brasil 3. | Chapter | Atena Editora | Atena Editora, 2019, v. , p. 148-157.|
+| A Utilização de Laboratórios Virtuais de Aprendizagem como Recurso no Processo Educacional. | Trabalhos completos publicados em anais de congressos | Semana de Informática Educacional, 2018, Teresina | Teresina-PI |
+
+</details>
 <hr>
 
 <h3 align="left">Languages and Tools:</h3>
