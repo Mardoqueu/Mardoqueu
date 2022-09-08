@@ -45,21 +45,21 @@
 <hr>
 
 <h2> Projects  </h2>
-<a href="https://google-v1-teal.vercel.app/" target="_blank">Google-Clone</a>
+<a href="https://google-v1-teal.vercel.app/" target="_blank" rel="noopener noreferrer">Google-Clone</a>
   <details>
     <summary>Preview</summary>
     <img loading="lazy" src="https://user-images.githubusercontent.com/11077068/189111405-c6545e07-6a7b-4770-baba-f5be059f55d0.png">
 </details>  
 
 
-<a href="https://movie-app-v1-tawny.vercel.app/" target="_blank">Movie-App</a>
+<a href="https://movie-app-v1-tawny.vercel.app/" target="_blank" rel="noopener noreferrer">Movie-App</a>
   <details>
     <summary>Preview</summary>
     <img loading="lazy" src="https://user-images.githubusercontent.com/11077068/189113755-d52a2194-01c1-4964-b9e2-bfc3e1da1859.png">
 </details>  
 
 
-<a href="https://insta-vercel.vercel.app/" target="_blank">Instagram-Clone</a>
+<a href="https://insta-vercel.vercel.app/" target="_blank" rel="noopener noreferrer">Instagram-Clone</a>
   <details>
     <summary>Preview</summary>
     <img loading="lazy" src="https://user-images.githubusercontent.com/11077068/189113807-fd6fecce-3935-4754-9c2c-32a41b922625.png">
