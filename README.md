@@ -1,6 +1,6 @@
 ### Hi there 👋<h2> <i> I’m Mardoqueu, but you can call me Mike!</i> </h2>
 
-<div id="header" align="right">
+<div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  width="230"/>
   <div id="badges">
   <a href="https://www.linkedin.com/in/mardoqueu-sousa">
