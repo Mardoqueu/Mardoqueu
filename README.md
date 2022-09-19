@@ -31,7 +31,6 @@
 <details>
 <summary><h2>Publications</h2></summary>
 
-
 | Topic | Type | Symposium | Place |
 | :---: | :---: | :---: | :---: |
 | Mapeamento sistemático da literatura brasileira sobre educational data mining e learning analytics | Artigo completo publicado em periódico | Brazilian Journal of Development |  Brazilian Journals Publicações de Periódicos e Editora Ltda |  
