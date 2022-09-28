@@ -109,9 +109,10 @@
 
 - 🔭 E-mail: mardoqueu@gmail.com
 - 🌱 Password: 123
-- 💻 [Repository Front](https://github.com/Mardoqueu/helpdesk-front)
-- 💻 [Repository Back](https://github.com/Mardoqueu/helpdesk-backend)
+- 💻 [Repository: Front](https://github.com/Mardoqueu/helpdesk-front)
+- 💻 [Repository: Back](https://github.com/Mardoqueu/helpdesk-backend)
     <img loading="lazy" src="https://user-images.githubusercontent.com/11077068/192793750-eef1c5ec-4ae4-46fb-8d58-d54721a7b59a.png">
+    <img loading="lazy" src="https://user-images.githubusercontent.com/11077068/192802167-bf2ed1bb-9558-4573-bc94-a0abd86e4710.png">
 </details>  
 
 
