@@ -117,7 +117,17 @@
     <img loading="lazy" src="https://user-images.githubusercontent.com/11077068/192802167-bf2ed1bb-9558-4573-bc94-a0abd86e4710.png">
 </details>  
 
-
+<a href="https://todo-list-angular-kz9o.vercel.app/" target="_blank" rel="noopener noreferrer">To do list - Angular</a>
+  <details>
+    <summary><h5>Description</h5></summary>
+  
+- 💻 Angular
+- 💻 Bootstrap
+- 💻 Typescript
+- 💻 CRUD (CREATE, READ, UPDATE e DELETE)
+- 💻 [Repository](https://github.com/Mardoqueu/todo-list-angular)
+    <img loading="lazy" src="https://user-images.githubusercontent.com/11077068/192903319-422020bc-2da0-42dd-affd-33277825e8ee.png">
+</details>  
 
 
 <hr>
