@@ -46,8 +46,8 @@
 <h2> Projects  </h2>
 <a href="https://google-v1-teal.vercel.app/" target="_blank" rel="noopener noreferrer">Google-Clone</a>
   <details>
-    <summary>More</summary>
-    <h3>•Description</h3>
+    <summary><h5>Description</h5></summary>
+    
 
 - 💻 Style with Tailwind CSS
 - 💻 Authenticate using next-auth
@@ -61,8 +61,7 @@
 
 <a href="https://movie-app-v1-tawny.vercel.app/" target="_blank" rel="noopener noreferrer">Movie-App</a>
   <details>
-    <summary>More</summary>
-     <h3>•Description</h3>
+    <summary><h5>Description</h5></summary>
 
   - 💻 Style with Tailwind CSS
   - 💻 IMBD database
@@ -74,8 +73,7 @@
 
 <a href="https://insta-vercel.vercel.app/" target="_blank" rel="noopener noreferrer">Instagram-Clone</a>
   <details>
-    <summary>More</summary>
-        <h3>•Description</h3>
+    <summary><h5>Description</h5></summary>
 
 - 💻 Style with Tailwind CSS
 - 💻 Authenticate using next-auth
@@ -89,8 +87,7 @@
 
 <a href="https://twitter-peach.vercel.app/" target="_blank" rel="noopener noreferrer">Twitter-Clone</a>
   <details>
-    <summary>More</summary>    
-       <h3>•Description</h3>
+    <summary><h5>Description</h5></summary>
 
 - 💻 Style with Tailwind CSS
 - 💻 Authenticate using next-auth
@@ -105,7 +102,7 @@
 
 <a href="https://helpdesk-front-tawny.vercel.app/login" target="_blank" rel="noopener noreferrer">Helpdesk - Angula/Java</a>
   <details>
-    <summary>More</summary>
+    <summary><h5>Description</h5></summary>
   
 - 💻 Front: Angular
 - 💻 Architecture: MVC
