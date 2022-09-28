@@ -46,29 +46,74 @@
 <h2> Projects  </h2>
 <a href="https://google-v1-teal.vercel.app/" target="_blank" rel="noopener noreferrer">Google-Clone</a>
   <details>
-    <summary>Preview</summary>
+    <summary>More</summary>
+    <h3>•Description</h3>
+
+- 💻 Style with Tailwind CSS
+- 💻 Authenticate using next-auth
+- 💻 Use google search api
+- 💻 Include web and image search
+- 💻 About: Google Clone using next js and Tailwind CSS.
+- 💻 [Repository](https://github.com/Mardoqueu/google-v1)
     <img loading="lazy" src="https://user-images.githubusercontent.com/11077068/189111405-c6545e07-6a7b-4770-baba-f5be059f55d0.png">
 </details>  
 
 
 <a href="https://movie-app-v1-tawny.vercel.app/" target="_blank" rel="noopener noreferrer">Movie-App</a>
   <details>
-    <summary>Preview</summary>
+    <summary>More</summary>
+     <h3>•Description</h3>
+
+  - 💻 Style with Tailwind CSS
+  - 💻 IMBD database
+  - 💻 About: This is a movie app created by next.js and tailwind CSS using IMBD database.
+  - 💻 [Repository](https://github.com/Mardoqueu/movie-app-v1)
     <img loading="lazy" src="https://user-images.githubusercontent.com/11077068/189113755-d52a2194-01c1-4964-b9e2-bfc3e1da1859.png">
 </details>  
 
 
 <a href="https://insta-vercel.vercel.app/" target="_blank" rel="noopener noreferrer">Instagram-Clone</a>
   <details>
-    <summary>Preview</summary>
+    <summary>More</summary>
+        <h3>•Description</h3>
+
+- 💻 Style with Tailwind CSS
+- 💻 Authenticate using next-auth
+- 💻 Firebase for database and storage
+- 💻 Apply like and comment functionality
+- 💻 Add upload functionality and use Image tag of nextjs
+- 💻 About: Instagram clone using nextJS and tailwind CSS.
+- 💻 [Repository](https://github.com/Mardoqueu/insta-v1)
     <img loading="lazy" src="https://user-images.githubusercontent.com/11077068/189113807-fd6fecce-3935-4754-9c2c-32a41b922625.png">
 </details>  
 
 <a href="https://twitter-peach.vercel.app/" target="_blank" rel="noopener noreferrer">Twitter-Clone</a>
   <details>
-    <summary>Preview</summary>
+    <summary>More</summary>    
+       <h3>•Description</h3>
+
+- 💻 Style with Tailwind CSS
+- 💻 Authenticate using next-auth
+- 💻 Firebase for database and storage
+- 💻 Apply like, comment, delete functionality
+- 💻 Add upload functionality and use Image tag of nextjs
+- 💻 API's: Google Sign-In, Saurav, Randomuser.me
+- 💻 About: Twitter clone using nextJS and tailwind CSS
+- 💻 [Repository](https://github.com/Mardoqueu/twitter)
     <img loading="lazy" src="https://user-images.githubusercontent.com/11077068/189369270-37c57889-dc2a-42d5-b4ee-10c390f8cb8f.png">
 </details>  
+
+<a href="https://helpdesk-front-tawny.vercel.app/login" target="_blank" rel="noopener noreferrer">Helpdesk - Angula/Java</a>
+  <details>
+    <summary>More</summary>
+
+- 🔭 E-mail: mardoqueu@gmail.com
+- 🌱 Password: 123
+- 💻 [Repository Front](https://github.com/Mardoqueu/helpdesk-front)
+- 💻 [Repository Back](https://github.com/Mardoqueu/helpdesk-backend)
+    <img loading="lazy" src="https://user-images.githubusercontent.com/11077068/192793750-eef1c5ec-4ae4-46fb-8d58-d54721a7b59a.png">
+</details>  
+
 
 
 
