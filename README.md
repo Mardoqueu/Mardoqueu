@@ -106,7 +106,12 @@
 <a href="https://helpdesk-front-tawny.vercel.app/login" target="_blank" rel="noopener noreferrer">Helpdesk - Angula/Java</a>
   <details>
     <summary>More</summary>
-
+  
+- 💻 Front: Angular
+- 💻 Architecture: MVC
+- 💻 Back: Java
+- 💻 DTO Standard (Data Transfer Objects)
+- 💻 CRUD (CREATE, READ, UPDATE e DELETE)
 - 🔭 E-mail: mardoqueu@gmail.com
 - 🌱 Password: 123
 - 💻 [Repository: Front](https://github.com/Mardoqueu/helpdesk-front)
