@@ -19,10 +19,10 @@
 <hr>
 <h3> 👨🏻•💻 About Me </h3>
 
-- 🔭 I’m currently working on back and front
-- 🌱 I’m currently learning React/NextJS 
-- 👯 I’m looking to collaborate on working with development teams and project managers product for idealize solutions in software 
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/mardoqueu-sousa/)
+- 🔭 I’m currently working on back and front.
+- 🌱 I’m currently learning React/NextJS.
+- 👯 I'm an experienced software engineer who constantly seeks out innovative solutions to everyday problems.
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/mardoqueu-sousa/).
 - 😄 Pronouns: He/Him
 
 <hr>
