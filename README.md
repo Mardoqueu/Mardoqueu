@@ -43,7 +43,8 @@
 </details>
 <hr>
 
-<h2> Projects  </h2>
+<details>
+<summary><h2> Projects </h2></summary>
 <a href="https://google-v1-teal.vercel.app/" target="_blank" rel="noopener noreferrer">Google-Clone</a>
   <details>
     <summary><h5>Description</h5></summary>
@@ -128,7 +129,7 @@
 - 💻 [Repository](https://github.com/Mardoqueu/todo-list-angular)
     <img loading="lazy" src="https://user-images.githubusercontent.com/11077068/192903319-422020bc-2da0-42dd-affd-33277825e8ee.png">
 </details>  
-
+</details>
 
 <hr>
 <h3 align="left">Languages and Tools:</h3>
