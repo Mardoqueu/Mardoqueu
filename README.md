@@ -17,7 +17,7 @@
 </div>
 
 <hr>
-<h3> 👨🏻•💻 About Me </h3>
+<h2> 👨🏻•💻 About Me </h2>
 
 - 🔭 I am a positive, enthusiastic and competent Web Developer who, over the years, has built up a diverse range of skills, qualities and attributes that guarantee I will perform highly in this role.
 - 🌱 I’m currently building many projects with Angular, NextJS, Java, Node and using many more stacks, you can check it out on my Github
@@ -44,8 +44,9 @@
 <hr>
 
 <details>
+
 <summary><h2> Projects </h2></summary>
-<a href="https://google-v1-teal.vercel.app/" target="_blank" rel="noopener noreferrer">Google-Clone</a>
+<h3><a href="https://google-v1-teal.vercel.app/" target="_blank" rel="noopener noreferrer">Google-Clone</a></h3>
   <details>
     <summary><h5>Description</h5></summary>
     
@@ -57,10 +58,11 @@
 - 💻 About: Google Clone using next js and Tailwind CSS.
 - 💻 [Repository](https://github.com/Mardoqueu/google-v1)
     <img loading="lazy" src="https://user-images.githubusercontent.com/11077068/189111405-c6545e07-6a7b-4770-baba-f5be059f55d0.png">
+    
 </details>  
 
 
-<a href="https://movie-app-v1-tawny.vercel.app/" target="_blank" rel="noopener noreferrer">Movie-App</a>
+<h3><a href="https://movie-app-v1-tawny.vercel.app/" target="_blank" rel="noopener noreferrer">Movie-App</a></h3>
   <details>
     <summary><h5>Description</h5></summary>
 
@@ -72,7 +74,7 @@
 </details>  
 
 
-<a href="https://insta-vercel.vercel.app/" target="_blank" rel="noopener noreferrer">Instagram-Clone</a>
+<h3><a href="https://insta-vercel.vercel.app/" target="_blank" rel="noopener noreferrer">Instagram-Clone</a></h3>
   <details>
     <summary><h5>Description</h5></summary>
 
@@ -86,7 +88,7 @@
     <img loading="lazy" src="https://user-images.githubusercontent.com/11077068/189113807-fd6fecce-3935-4754-9c2c-32a41b922625.png">
 </details>  
 
-<a href="https://twitter-peach.vercel.app/" target="_blank" rel="noopener noreferrer">Twitter-Clone</a>
+<h3><a href="https://twitter-peach.vercel.app/" target="_blank" rel="noopener noreferrer">Twitter-Clone</a></h3>
   <details>
     <summary><h5>Description</h5></summary>
 
@@ -101,7 +103,7 @@
     <img loading="lazy" src="https://user-images.githubusercontent.com/11077068/189369270-37c57889-dc2a-42d5-b4ee-10c390f8cb8f.png">
 </details>  
 
-<a href="https://helpdesk-front-tawny.vercel.app/login" target="_blank" rel="noopener noreferrer">Helpdesk - Angula/Java</a>
+<h3><a href="https://helpdesk-front-tawny.vercel.app/login" target="_blank" rel="noopener noreferrer">Helpdesk - Angula/Java</a></h3>
   <details>
     <summary><h5>Description</h5></summary>
   
@@ -115,10 +117,10 @@
 - 🔭 E-mail: mardoqueu@gmail.com
 - 🌱 Password: 123
     <img loading="lazy" src="https://user-images.githubusercontent.com/11077068/192793750-eef1c5ec-4ae4-46fb-8d58-d54721a7b59a.png">
-    <img loading="lazy" src="https://user-images.githubusercontent.com/11077068/192802167-bf2ed1bb-9558-4573-bc94-a0abd86e4710.png">
+    <img loading="lazy" src="https://user-images.githubusercontent.com/11077068/192802167-bf2ed1bb-9558-4573-bc94-a0abd86e4710.png">    
 </details>  
 
-<a href="https://todo-list-angular-kz9o.vercel.app/" target="_blank" rel="noopener noreferrer">To do list - Angular</a>
+<h3><a href="https://todo-list-angular-kz9o.vercel.app/" target="_blank" rel="noopener noreferrer">To do list - Angular</a></h3>
   <details>
     <summary><h5>Description</h5></summary>
   
@@ -132,7 +134,7 @@
 </details>
 
 <hr>
-<h3 align="left">Languages and Tools:</h3>
+<h2 align="left">Languages and Tools:</h2>
 <p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
 
@@ -142,7 +144,7 @@
 
 <div id="header" align="center">
 
-[![Mardoqueu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mardoqueu&show_icons=true )](https://github.com/Mardoqueu)
+[![Mardoqueu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mardoqueu&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=default )](https://github.com/Mardoqueu)
 
  </div>
 
@@ -154,16 +156,17 @@
 <hr>
 <br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mardoqueu&show_icons=true )
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mardoqueu&langs_count=5)](https://github.com/Mardoqueu/github-readme-stats)
 <img src="https://github.com/nirala69/nirala69/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="350" align='right'>
 
 
 <hr>
 <br/>
 
-<div id="header" align="center">
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=mardoqueu&layout=compact&" alt="mardoqueu" /></p>
+<div  align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mardoqueu&layout=compact&" alt="mardoqueu" />
 </div>
+
 
 <br><br>
 
