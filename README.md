@@ -25,6 +25,8 @@
 - 👯 I'm an experienced software engineer who constantly seeks out innovative solutions to everyday problems
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/mardoqueu-sousa/).
 - 😄 Pronouns: He/Him
+- [Curriculum Vitae](https://github.com/Mardoqueu/Mardoqueu/files/9820731/Black.White.Minimalist.CV.Resume.1.pdf)
+
 
 <hr>
 
