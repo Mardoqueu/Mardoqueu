@@ -1,4 +1,4 @@
-### Hi there 👋<h2> <i> I’m Mardoqueu, but you can call me Mike!</i> </h2>
+### Hi there 👋<h2> <i> My name is Mardoqueu, but you can call me Mike!</i> </h2>
   
 
 <div id="header" align="center">
