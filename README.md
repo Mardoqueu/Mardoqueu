@@ -22,7 +22,7 @@
 <h2> 👨🏻•💻 About Me </h2>
 
 
- <img src="https://user-images.githubusercontent.com/11077068/197184660-b3d519e3-03b7-45a1-9c4b-53b3f61c7738.gif"  height="290px" align="right" />
+ <img src="https://media4.giphy.com/media/oyVG9q7PWZMFj9rMNt/giphy.gif?cid=790b761189376553c10ef89181046af1b224929d29027da8&rid=giphy.gif&ct=g"  height="290px" align="right" />
 
 - 🔭 I am a positive, enthusiastic and competent Web Developer who, over the years, has built up a diverse range of skills, qualities and attributes that guarantee I will perform highly in this role.
 - 🌱 I’m currently building many projects with Angular, NextJS, JavaScript, Java, Node and using many more stacks, you can check it out on my Github
