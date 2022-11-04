@@ -182,6 +182,7 @@
 <hr>
 <div id="header" align="center">
 
-![Snake animation](https://github.com/victorss47/victorss47/blob/output/github-contribution-grid-snake.svg)
+![contributions](https://user-images.githubusercontent.com/11077068/200068273-c3fb2e45-8645-4595-901f-311068534509.svg)
+
 
 </div>
