@@ -39,13 +39,17 @@
 <!--START_SECTION:table-->
 <details>
 <summary><h2>Resume</h2></summary>
-
-As you can see on my [Linkedin](https://www.linkedin.com/in/mardoqueu-sousa/), I have spent the last 3 years working as an IT developer and teacher. In a typical day, I answer emails and review code, and then I have a quick 10-minute meeting with a project colleague about what I did yesterday, what I'm planning to do today, and if there are any roadblocks holding me back. Right after that, I write some code or first finish any code review comments. I continue coding and also study new courses and articles on Front-End and Back-End.
-
-I also used to work as an IT professor at the [Federal Institute of Maranhão](https://github.com/Mardoqueu/Mardoqueu/files/9943997/declaracao.pdf). This was a great experience because I developed skills in public speaking, I improved my network, and I got to know several stacks like HTML, CSS, JavaScript, Bootstrap, Angular, Java, MySQL, and Spring Boot as well as other Front-End and Back-End technologies. The whole experience led me to fall in love with Front-End where I can immerse myself in technology and have the sensitivity to think and seek to apply positive social impacts.
-
- My next goal for the future is to grow in the tech sector and write a book about all the experiences I have told and will have yet. That is why I think I am a perfect match for this position. I'm really interested in the area of technologies, and I'm looking forward to learning as much as I can in this industry and contributing to the work that is being done.
-
+<p align="justify">
+As you can see on my <a href="https://www.linkedin.com/in/mardoqueu-sousa/">Linkedin</a>, I have spent the last 3 years working as an IT developer and teacher. In a typical day, I answer emails and review code, and then I have a quick 10-minute meeting with a project colleague about what I did yesterday, what I'm planning to do today, and if there are any roadblocks holding me back. Right after that, I write some code or first finish any code review comments. I continue coding and also study new courses and articles on Front-End and Back-End.
+ </p>
+ 
+<p align="justify">
+I also used to work as an IT professor at the <a href="https://github.com/Mardoqueu/Mardoqueu/files/9943997/declaracao.pdf">Federal Institute of Maranhão</a>. This was a great experience because I developed skills in public speaking, I improved my network, and I got to know several stacks like HTML, CSS, JavaScript, Bootstrap, Angular, Java, MySQL, and Spring Boot as well as other Front-End and Back-End technologies. The whole experience led me to fall in love with Front-End where I can immerse myself in technology and have the sensitivity to think and seek to apply positive social impacts.
+ </p>
+  
+<p align="justify">
+My next goal for the future is to grow in the tech sector and write a book about all the experiences I have told and will have yet. That is why I think I am a perfect match for this position. I'm really interested in the area of technologies, and I'm looking forward to learning as much as I can in this industry and contributing to the work that is being done.
+ </p>
 
 </details>
 <hr>
@@ -57,7 +61,7 @@ I also used to work as an IT professor at the [Federal Institute of Maranhão](h
 
 | Topic | Type | Symposium | Place |
 | :---: | :---: | :---: | :---: |
-| Mapeamento sistemático da literatura brasileira sobre educational data mining e learning analytics | Artigo completo publicado em periódico | Brazilian Journal of Development |  Brazilian Journals Publicações de Periódicos e Editora Ltda |  
+| <a href="https://brazilianjournals.com/ojs/index.php/BRJD/article/view/5825" target=”_blank”>Mapeamento sistemático da literatura brasileira sobre educational data mining e learning analytics</a> | Artigo completo publicado em periódico | Brazilian Journal of Development |  Brazilian Journals Publicações de Periódicos e Editora Ltda |  
 | Code teacher: uma ferramenta para correção automática de trabalhos acadêmicos de programação em Java | Artigo completo publicado em periódico | Brazilian Journal of Development | Brazilian Journals Publicações de Periódicos e Editora Ltda |
 | Protótipo de um Sistema De Irrigação Baseado em IOT para Pequenos e Médios Produtores Rurais | Artigo completo publicado em periódico | ACTA TECNOLÓGICA | Pedreiras-MA |
 | OS 13 PORQUÊS DE VOCÊ NÃO APRENDER INGLÊS. 1. ed. | Livro publicado | Editora Vecchio | ASIN - B08DCTQFB2|
