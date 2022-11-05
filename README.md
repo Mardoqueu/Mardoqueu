@@ -61,15 +61,16 @@ My next goal for the future is to grow in the tech sector and write a book about
 
 | Topic | Type | Symposium | Place |
 | :---: | :---: | :---: | :---: |
-| <a href="https://brazilianjournals.com/ojs/index.php/BRJD/article/view/5825" target=”_blank”>Mapeamento sistemático da literatura brasileira sobre educational data mining e learning analytics</a> | Artigo completo publicado em periódico | Brazilian Journal of Development |  Brazilian Journals Publicações de Periódicos e Editora Ltda |  
-| Code teacher: uma ferramenta para correção automática de trabalhos acadêmicos de programação em Java | Artigo completo publicado em periódico | Brazilian Journal of Development | Brazilian Journals Publicações de Periódicos e Editora Ltda |
-| Protótipo de um Sistema De Irrigação Baseado em IOT para Pequenos e Médios Produtores Rurais | Artigo completo publicado em periódico | ACTA TECNOLÓGICA | Pedreiras-MA |
-| OS 13 PORQUÊS DE VOCÊ NÃO APRENDER INGLÊS. 1. ed. | Livro publicado | Editora Vecchio | ASIN - B08DCTQFB2|
-|  CODETEACHER: UMA FERRAMENTA PARA CORREÇÃO AUTOMÁTICA DE TRABALHOS ACADÊMICOS DE PROGRAMAÇÃO EM JAVA. Princípios e Aplicações da Computação no Brasil 3. | Chapter | Atena Editora | Atena Editora, 2019, v. , p. 148-157.|
-| A Utilização de Laboratórios Virtuais de Aprendizagem como Recurso no Processo Educacional. | Trabalhos completos publicados em anais de congressos | Semana de Informática Educacional, 2018, Teresina | Teresina-PI |
+| <a href="https://brazilianjournals.com/ojs/index.php/BRJD/article/view/5825">Mapeamento sistemático da literatura brasileira sobre educational data mining e learning analytics</a> | Artigo completo publicado em periódico | Brazilian Journal of Development |  Brazilian Journals Publicações de Periódicos e Editora Ltda |  
+| <a href="https://brazilianjournals.com/ojs/index.php/BRJD/article/view/1100">Code teacher: uma ferramenta para correção automática de trabalhos acadêmicos de programação em Java</a> | Artigo completo publicado em periódico | Brazilian Journal of Development | Brazilian Journals Publicações de Periódicos e Editora Ltda |
+| <a href="https://periodicos.ifma.edu.br/index.php/actatecnologica/article/view/608">Protótipo de um Sistema De Irrigação Baseado em IOT para Pequenos e Médios Produtores Rurais</a> | Artigo completo publicado em periódico | ACTA TECNOLÓGICA | Pedreiras-MA |
+| <a href="https://www.amazon.com/Porqu%C3%AAs-Voc%C3%AA-Aprender-Ingl%C3%AAs-Portuguese-ebook/dp/B08DCTQFB2">Os 13 Porquês de Você Não Aprender Inglês (Portuguese Edition)</a> | Livro publicado | Editora Vecchio | ASIN - B08DCTQFB2|
+|  <a href="https://www.atenaeditora.com.br/catalogo/post/codeteacher-uma-ferramenta-para-correcao-automatica-de-trabalhos-academicos-de-programacao-em-java">CODETEACHER: Uma Ferramenta Para Correção Automática De Trabalhos Acadêmicos De Programação Em Java</a> | Chapter | Atena Editora | Atena Editora, 2019, v. , p. 148-157.|
+| [A Utilização de Laboratórios Virtuais de Aprendizagem como Recurso no Processo Educacional](https://github.com/Mardoqueu/Mardoqueu/files/9944036/Artigo.-.Laboratorio.Virtual.-.SIE.-.Final.pdf)  | Trabalhos completos publicados em anais de congressos | Semana de Informática Educacional, 2018, Teresina | Teresina-PI |
 
 </details>
 <hr>
+
 
 <details>
 
