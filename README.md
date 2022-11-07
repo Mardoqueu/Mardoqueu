@@ -173,7 +173,7 @@ My next goal for the future is to grow in the tech sector and write a book about
 
 <div id="header" align="center">
 
-[![Mardoqueu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mardoqueu&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=default )](https://github.com/Mardoqueu)
+[![Mardoqueu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mardoqueu&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dark&show_icons=true )](https://github.com/Mardoqueu)
 
  </div>
 
@@ -185,14 +185,16 @@ My next goal for the future is to grow in the tech sector and write a book about
 <hr>
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mardoqueu&langs_count=5)](https://github.com/Mardoqueu/github-readme-stats)
-<img src="https://github.com/nirala69/nirala69/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="350" align='right'>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mardoqueu&langs_count=5&&theme=dark&show_icons=true)](https://github.com/Mardoqueu/github-readme-stats)
+<img src=https://user-images.githubusercontent.com/11077068/200310941-57e6fae2-b5a4-4980-8c0c-e92938857088.gif width="500" align='right'>
+
+
 
 
 <hr>
 <br/>
 <div  align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mardoqueu&layout=compact&" alt="mardoqueu" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mardoqueu&layout=compact&&theme=dark&show_icons=true" alt="mardoqueu" />
 </div>
 
 
