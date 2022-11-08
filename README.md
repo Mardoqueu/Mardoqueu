@@ -2,6 +2,7 @@
 </i> </h2>
   
 
+
 <div id="header" align="center">
   <img src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif"  width="1000"/>
   <div id="badges">
@@ -189,6 +190,7 @@ My next goal for the future is to grow in the tech sector and write a book about
 <img src=https://user-images.githubusercontent.com/11077068/200310941-57e6fae2-b5a4-4980-8c0c-e92938857088.gif width="500" align='right'>
 
 
+![giphy]()
 
 
 <hr>
@@ -197,6 +199,14 @@ My next goal for the future is to grow in the tech sector and write a book about
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=mardoqueu&layout=compact&&theme=dark&show_icons=true" alt="mardoqueu" />
 </div>
 
+<br/>
+
+<div id="header" align="center">
+
+   [![Mardoqueu's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mardoqueu&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats&v=2)
+
+
+ </div>
 
 <br><br>
 
