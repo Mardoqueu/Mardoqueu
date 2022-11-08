@@ -190,7 +190,6 @@ My next goal for the future is to grow in the tech sector and write a book about
 <img src=https://user-images.githubusercontent.com/11077068/200310941-57e6fae2-b5a4-4980-8c0c-e92938857088.gif width="500" align='right'>
 
 
-![giphy]()
 
 
 <hr>
