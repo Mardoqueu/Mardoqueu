@@ -41,7 +41,7 @@
 <details>
 <summary><h2>Resume</h2></summary>
 <p align="justify">
-As you can see on my <a href="https://www.linkedin.com/in/mardoqueu-sousa/">Linkedin</a>, I have spent the last 3 years working as an IT developer and teacher. In a typical day, I answer emails and review code, and then I have a quick 10-minute meeting with a project colleague about what I did yesterday, what I'm planning to do today, and if there are any roadblocks holding me back. Right after that, I write some code or first finish any code review comments. I continue coding and also study new courses and articles on Front-End and Back-End.
+As you can see on my <a href="https://www.linkedin.com/in/mardoqueu-sousa/">Linkedin</a>, I have spent the last 4 years working as an IT developer and teacher. In a typical day, I answer emails and review code, and then I have a quick 10-minute meeting with a project colleague about what I did yesterday, what I'm planning to do today, and if there are any roadblocks holding me back. Right after that, I write some code or first finish any code review comments. I continue coding and also study new courses and articles on Front-End and Back-End.
  </p>
  
 <p align="justify">
@@ -55,6 +55,22 @@ My next goal for the future is to grow in the tech sector and write a book about
 </details>
 <hr>
 
+
+<!--START_SECTION:table-->
+<details>
+<summary><h2>Research Project as Coordinator and Member</h2></summary>
+
+| Title | Role | Situation | Options |
+| :---: | :---: | :---: | :---: |
+| A Utilização do Jogo como recurso de motivação e aprendizagem no Combate do Aedes Aegypti	 | Coordinator | Concluded | [Download](https://github.com/Mardoqueu/Mardoqueu/files/9971231/A.Utilizacao.do.Jogo.como.recurso.de.motivacao.e.aprendizagem.no.Combate.do.Aedes.Aegypti.pdf) |  
+|Adição de Funcionalidades Didático-pedagógicos ao Sistema de Avaliação de Atividades de Programação CodeTeacher	 | Coordinator | Concluded | [Download](https://github.com/Mardoqueu/Mardoqueu/files/9971262/Adicao.de.Funcionalidades.Didatico-pedagogicos.ao.Sistema.de.Avaliacao.de.Atividades.de.funcionalidades.pdf) |
+| Usos Da Realidade Aumentada E Do Design Thinking Como Recursos No Ensino-aprendizagem Em Nível Profissionalizante | Coordinator | Concluded |  [Download](https://github.com/Mardoqueu/Mardoqueu/files/9971292/USOS.DA.REALIDADE.AUMENTADA.E.DO.DESIGN.THINKING.COMO.RECURSOS.NO.ENSINO-APRENDIZAGEM.EM.pdf)|
+| ATLAS GEOGRÁFICO DO MUNICÍPIO DE COELHO NETO | Member | Concluded | [Download](https://github.com/Mardoqueu/Mardoqueu/files/9971322/ATLAS.GEOGRAFICO.DO.MUNICIPIO.DE.COELHO.NETO.pdf) |
+|  Quiz Educativo IFMA | Member | Concluded | [Download](https://github.com/Mardoqueu/Mardoqueu/files/9971441/QUIZ.EDUCATIVO.IFMA.pdf)|
+| Game De Desafios De Empreendedorismo | Member | Running | [Download](https://github.com/Mardoqueu/Mardoqueu/files/9971474/GAME.DE.DESAFIOS.DE.EMPREENDEDORISMO.pdf)|
+
+</details>
+<hr>
 
 <!--START_SECTION:table-->
 <details>
