@@ -58,7 +58,7 @@ My next goal for the future is to grow in the tech sector and write a book about
 
 <!--START_SECTION:table-->
 <details>
-<summary><h2>Research Project as Coordinator and Member</h2></summary>
+<summary><h2>Research Project</h2></summary>
 
 | Title | Role | Situation | Options |
 | :---: | :---: | :---: | :---: |
