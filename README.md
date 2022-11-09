@@ -194,11 +194,6 @@ My next goal for the future is to grow in the tech sector and write a book about
 
  </div>
 
-
-
-<br/>
-
-
 <hr>
 <br/>
 
@@ -223,7 +218,6 @@ My next goal for the future is to grow in the tech sector and write a book about
 
  </div>
 
-<br><br>
 
 <hr>
 <div id="header" align="center">
@@ -234,9 +228,4 @@ My next goal for the future is to grow in the tech sector and write a book about
 </div>
 
 <hr>
-<div id="header" align="center">
 
-![contributions](https://user-images.githubusercontent.com/11077068/200068273-c3fb2e45-8645-4595-901f-311068534509.svg)
-
-
-</div>
