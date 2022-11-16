@@ -92,91 +92,108 @@ My next goal for the future is to grow in the tech sector and write a book about
 <details>
 
 <summary><h2> Projects </h2></summary>
-<h3><a href="https://google-v1-teal.vercel.app/" target="_blank" rel="noopener noreferrer">Google-Clone</a></h3>
-  <details>
-    <summary><h5>Description</h5></summary>
-    
+<img align="right" src="https://user-images.githubusercontent.com/11077068/202214298-cc55a872-b915-485f-afb4-dc1a9dffee20.gif" height="495px" width="365px" alt="projects image">
+<table height="495px" width="365px">
+  <tr>
+    <td>
+    <a href="https://github.com/Mardoqueu/google-v1" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mardoqueu&repo=google-v1&theme=tokyonight&hide_border=true">
+    </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+    <a href="https://github.com/Mardoqueu/movie-app-v1" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mardoqueu&repo=movie-app-v1&theme=tokyonight&hide_border=true">
+    </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+    <a href="https://github.com/Mardoqueu/insta-v1" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mardoqueu&repo=insta-v1&theme=tokyonight&hide_border=true"> </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+     <a href="https://github.com/Mardoqueu/twitter" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mardoqueu&repo=twitter&theme=tokyonight&hide_border=true">
+    </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+    <a href="https://github.com/Mardoqueu/helpdesk-front" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mardoqueu&repo=helpdesk-front&theme=tokyonight&hide_border=true">
+    </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+    <a href="https://github.com/Mardoqueu/helpdesk-backend" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mardoqueu&repo=helpdesk-backend&theme=tokyonight&hide_border=true">
+    </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+    <a href="https://github.com/Mardoqueu/todo-list-angular" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mardoqueu&repo=todo-list-angular&theme=tokyonight&hide_border=true">
+    </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+    <a href="https://github.com/Mardoqueu/realtor-clone-react" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mardoqueu&repo=realtor-clone-react&theme=tokyonight&hide_border=true">
+    </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+    <a href="https://github.com/Mardoqueu/react-portfolio-website" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mardoqueu&repo=react-portfolio-website&theme=tokyonight&hide_border=true">
+    </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+    <a href="https://github.com/Mardoqueu/bookstore" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mardoqueu&repo=bookstore&theme=tokyonight&hide_border=true">
+    </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+    <a href="https://github.com/Mardoqueu/Website-Foods" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mardoqueu&repo=Website-Foods&theme=tokyonight&hide_border=true">
+    </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+    <a href="https://github.com/Mardoqueu/Website-Figma-to-HTML" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mardoqueu&repo=Website-Figma-to-HTML&theme=tokyonight&hide_border=true">
+    </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+    <a href="https://github.com/Mardoqueu/tindog" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mardoqueu&repo=tindog&theme=tokyonight&hide_border=true">
+    </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+    <a href="https://github.com/Mardoqueu/drum-kit" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mardoqueu&repo=drum-kit&theme=tokyonight&hide_border=true">
+    </a>
+    </td>
+  </tr>
+</table>
+<br>
 
-- 💻 Style with Tailwind CSS
-- 💻 Authenticate using next-auth
-- 💻 Use google search api
-- 💻 Include web and image search
-- 💻 About: Google Clone using next js and Tailwind CSS.
-- 💻 [Repository](https://github.com/Mardoqueu/google-v1)
-    <img loading="lazy" src="https://user-images.githubusercontent.com/11077068/189111405-c6545e07-6a7b-4770-baba-f5be059f55d0.png">
-    
-</details>  
-
-
-<h3><a href="https://movie-app-v1-tawny.vercel.app/" target="_blank" rel="noopener noreferrer">Movie-App</a></h3>
-  <details>
-    <summary><h5>Description</h5></summary>
-
-  - 💻 Style with Tailwind CSS
-  - 💻 IMBD database
-  - 💻 About: This is a movie app created by next.js and tailwind CSS using IMBD database.
-  - 💻 [Repository](https://github.com/Mardoqueu/movie-app-v1)
-    <img loading="lazy" src="https://user-images.githubusercontent.com/11077068/189113755-d52a2194-01c1-4964-b9e2-bfc3e1da1859.png">
-</details>  
-
-
-<h3><a href="https://insta-vercel.vercel.app/" target="_blank" rel="noopener noreferrer">Instagram-Clone</a></h3>
-  <details>
-    <summary><h5>Description</h5></summary>
-
-- 💻 Style with Tailwind CSS
-- 💻 Authenticate using next-auth
-- 💻 Firebase for database and storage
-- 💻 Apply like and comment functionality
-- 💻 Add upload functionality and use Image tag of nextjs
-- 💻 About: Instagram clone using nextJS and tailwind CSS.
-- 💻 [Repository](https://github.com/Mardoqueu/insta-v1)
-    <img loading="lazy" src="https://user-images.githubusercontent.com/11077068/189113807-fd6fecce-3935-4754-9c2c-32a41b922625.png">
-</details>  
-
-<h3><a href="https://twitter-peach.vercel.app/" target="_blank" rel="noopener noreferrer">Twitter-Clone</a></h3>
-  <details>
-    <summary><h5>Description</h5></summary>
-
-- 💻 Style with Tailwind CSS
-- 💻 Authenticate using next-auth
-- 💻 Firebase for database and storage
-- 💻 Apply like, comment, delete functionality
-- 💻 Add upload functionality and use Image tag of nextjs
-- 💻 API's: Google Sign-In, Saurav, Randomuser.me
-- 💻 About: Twitter clone using nextJS and tailwind CSS
-- 💻 [Repository](https://github.com/Mardoqueu/twitter)
-    <img loading="lazy" src="https://user-images.githubusercontent.com/11077068/189369270-37c57889-dc2a-42d5-b4ee-10c390f8cb8f.png">
-</details>  
-
-<h3><a href="https://helpdesk-front-tawny.vercel.app/login" target="_blank" rel="noopener noreferrer">Helpdesk - Angula/Java</a></h3>
-  <details>
-    <summary><h5>Description</h5></summary>
-  
-- 💻 Front: Angular
-- 💻 Architecture: MVC
-- 💻 Back: Java
-- 💻 DTO Standard (Data Transfer Objects)
-- 💻 CRUD (CREATE, READ, UPDATE e DELETE)
-- 💻 [Repository: Front](https://github.com/Mardoqueu/helpdesk-front)
-- 💻 [Repository: Back](https://github.com/Mardoqueu/helpdesk-backend)
-- 🔭 E-mail: mardoqueu@gmail.com
-- 🌱 Password: 123
-    <img loading="lazy" src="https://user-images.githubusercontent.com/11077068/192793750-eef1c5ec-4ae4-46fb-8d58-d54721a7b59a.png">
-    <img loading="lazy" src="https://user-images.githubusercontent.com/11077068/192802167-bf2ed1bb-9558-4573-bc94-a0abd86e4710.png">    
-</details>  
-
-<h3><a href="https://todo-list-angular-kz9o.vercel.app/" target="_blank" rel="noopener noreferrer">To do list - Angular</a></h3>
-  <details>
-    <summary><h5>Description</h5></summary>
-  
-- 💻 Angular
-- 💻 Bootstrap
-- 💻 Typescript
-- 💻 CRUD (CREATE, READ, UPDATE e DELETE)
-- 💻 [Repository](https://github.com/Mardoqueu/todo-list-angular)
-    <img loading="lazy" src="https://user-images.githubusercontent.com/11077068/192903319-422020bc-2da0-42dd-affd-33277825e8ee.png">
-</details>  
 </details>
 
 <hr>
