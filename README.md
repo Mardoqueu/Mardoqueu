@@ -92,7 +92,7 @@ My next goal for the future is to grow in the tech sector and write a book about
 <details>
 
 <summary><h2> Projects </h2></summary>
-<img align="right" src="https://user-images.githubusercontent.com/11077068/202220004-4964d460-6930-4315-ac9c-ae55422fe9bb.gif" height="495px" width="365px" alt="projects image">
+<img align="right" src="https://user-images.githubusercontent.com/11077068/202220417-97713bc1-a088-4b20-bab7-b536704975dd.gif" height="495px" width="365px" alt="projects image">
 <table height="495px" width="365px">
   <tr>
     <td>
@@ -162,21 +162,7 @@ My next goal for the future is to grow in the tech sector and write a book about
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mardoqueu&repo=bookstore&theme=tokyonight&hide_border=true">
     </a>
     </td>
-  </tr>
-  <tr>
-    <td>
-    <a href="https://github.com/Mardoqueu/Website-Foods" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mardoqueu&repo=Website-Foods&theme=tokyonight&hide_border=true">
-    </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-    <a href="https://github.com/Mardoqueu/Website-Figma-to-HTML" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mardoqueu&repo=Website-Figma-to-HTML&theme=tokyonight&hide_border=true">
-    </a>
-    </td>
-  </tr>
+  </tr> 
   <tr>
     <td>
     <a href="https://github.com/Mardoqueu/tindog" target="_blank">
