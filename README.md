@@ -92,7 +92,7 @@ My next goal for the future is to grow in the tech sector and write a book about
 <details>
 
 <summary><h2> Projects </h2></summary>
-<img align="right" src="https://user-images.githubusercontent.com/11077068/202214298-cc55a872-b915-485f-afb4-dc1a9dffee20.gif" height="495px" width="365px" alt="projects image">
+<img align="right" src="https://user-images.githubusercontent.com/11077068/202220004-4964d460-6930-4315-ac9c-ae55422fe9bb.gif" height="495px" width="365px" alt="projects image">
 <table height="495px" width="365px">
   <tr>
     <td>
