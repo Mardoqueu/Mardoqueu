@@ -182,22 +182,6 @@ My next goal for the future is to grow in the tech sector and write a book about
 
 </details>
 
-<hr>
-<!--START_SECTION:table-->
-<details>
-<summary><h2>Certificate Of Participation In Extension Project</h2></summary>
-
-| Title | Year | Workload | Options |
-| :---: | :---: | :---: | :---: |
-| Launch Base: Bootcamp DEV | 2021 | 20 hours | [Download](https://github.com/Mardoqueu/Mardoqueu/files/9995822/Bootcamp.DEV.pdf) |
-| I INTEGRA IFMA - O Profissional Pós-Pandemia: Novos desafios e novas habilidades	 | 2020 | 30 hours | [Download](https://github.com/Mardoqueu/Mardoqueu/files/9995810/o.I.INTEGRA.IFMA.-.O.Profissional.Pos-Pandemia.pdf) |  
-|Café com Negócios - 3ª edição | 2020 | 2 hours |[Download](https://github.com/Mardoqueu/Mardoqueu/files/9995815/o.Cafe.com.Negocios.-.3.edicao.pdf)|
-| I Semana On-line do NEABI Campus Coelho Neto: Visibilizando as temáticas indígenas, afro-brasileiras, africanas e suas relações étnico-raciais em tempos de pandemia | 2020 |  20 hours | [Download](https://github.com/Mardoqueu/Mardoqueu/files/9995819/Visibilizando.as.tematicas.indigenas.afro-brasileiras.africanas.e.suas.relacoes.etnico-raciais.em.tempos.de.pandemia.pdf) |
-| II ConecTIvidade - Encontro de Estudantes, Egressos e Empresários de Informática | 2019 | 12 hours | [Download](https://github.com/Mardoqueu/Mardoqueu/files/9995824/II.ConecTIvidade.-.Encontro.de.Estudantes.Egressos.e.Empresarios.de.pdf) |
-| Semana Nacional De Ciência E Tecnologia - SNCT | 2019 | 20 hours | [Download](https://github.com/Mardoqueu/Mardoqueu/files/9995829/o.SEMANA.NACIONAL.DE.CIENCIA.E.TECNOLOGIA.-.SNCT.pdf) |
-| Crochetando Vidas E Pintando Sonhos | 2018 | 40 hours | [Download](https://github.com/Mardoqueu/Mardoqueu/files/9995834/CROCHETANDO.VIDAS.E.PINTANDO.SONHOS.pdf)|
-
-</details>
 
 
 
