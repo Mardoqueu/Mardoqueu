@@ -43,6 +43,9 @@
 <p align="justify">
 As you can see on my <a href="https://www.linkedin.com/in/mardoqueu-sousa/">Linkedin</a>, I have spent the last 4 years working as an IT developer and teacher. In a typical day, I answer emails and review code, and then I have a quick 10-minute meeting with a project colleague about what I did yesterday, what I'm planning to do today, and if there are any roadblocks holding me back. Right after that, I write some code or first finish any code review comments. I continue coding and also study new courses and articles on Front-End and Back-End.
  </p>
+  
+  
+  
  
 <p align="justify">
 I also used to work as an IT professor at the <a href="https://github.com/Mardoqueu/Mardoqueu/files/9943997/declaracao.pdf">Federal Institute of Maranhão</a>. This was a great experience because I developed skills in public speaking, I improved my network, and I got to know several stacks like HTML, CSS, JavaScript, Bootstrap, Angular, Java, MySQL, and Spring Boot as well as other Front-End and Back-End technologies. The whole experience led me to fall in love with Front-End where I can immerse myself in technology and have the sensitivity to think and seek to apply positive social impacts.
