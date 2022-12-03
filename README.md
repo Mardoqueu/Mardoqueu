@@ -231,7 +231,7 @@ My next goal for the future is to grow in the tech sector and write a book about
 <hr>
 <div id="header" align="center">
 
-[![Mardoqueu's github activity graph](https://activity-graph.herokuapp.com/graph?username=mardoqueu&bg_color=171717&color=ffffff&line=3382ed&point=ffffff&area_color=171717)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Mardoqueu's github activity graph](https://powerful-basin-97780.herokuapp.com/graph?username=mardoqueu&bg_color=171717&color=ffffff&line=3382ed&point=ffffff&area_color=171717)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 </div>
