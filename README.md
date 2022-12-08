@@ -1,4 +1,4 @@
-### Hi there 👋<h2> <i> My name is Mardoqueu, but you can call me Mike! And this is my [Portfolio](https://react-portfolio-website-indol.vercel.app/)!
+👋<h2> <i> My name is Mardoqueu, but you can call me Mike! And this is my [Portfolio](https://react-portfolio-website-indol.vercel.app/)!
 </i> </h2>
   
 
