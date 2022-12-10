@@ -1,4 +1,4 @@
-<h1>👋Hi, What's up?</H2>
+<h1>👋Hi, How's it going??</H2>
 
 <h2> <i> My name is Mardoqueu, but you can call me Mike! And this is my [Portfolio](https://react-portfolio-website-indol.vercel.app/)!
 </i> </h2>
