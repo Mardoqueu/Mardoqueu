@@ -93,9 +93,8 @@ My next goal for the future is to grow in the tech sector and write a book about
 <hr>
 
 
-<details>
 
-<summary><h2> Projects </h2></summary>
+<h2> Projects </h2>
 <img align="right" src="https://user-images.githubusercontent.com/11077068/202220417-97713bc1-a088-4b20-bab7-b536704975dd.gif" height="495px" width="365px" alt="projects image">
 <table height="495px" width="365px">
   <tr>
@@ -178,6 +177,20 @@ My next goal for the future is to grow in the tech sector and write a book about
     <td>
     <a href="https://github.com/Mardoqueu/drum-kit" target="_blank">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mardoqueu&repo=drum-kit&theme=tokyonight&hide_border=true">
+    </a>
+    </td>
+  </tr>
+   <tr>
+    <td>
+    <a href="https://github.com/Mardoqueu/cibernix-test-backend" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mardoqueu&repo=cibernix-test-backend&theme=tokyonight&hide_border=true">
+    </a>
+    </td>
+  </tr>
+    <tr>
+    <td>
+    <a href="https://github.com/Mardoqueu/chat-app-firebase" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mardoqueu&repo=chat-app-firebase&theme=tokyonight&hide_border=true">
     </a>
     </td>
   </tr>
