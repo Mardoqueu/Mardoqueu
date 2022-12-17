@@ -1,7 +1,8 @@
 <h1>👋Hi, What's up?</H2>
 
-<h2> <i> My name is Mardoqueu, but you can call me Mike!</i> </h2>
-  
+<h2> <i> My name is Mardoqueu, but you can call me Mike! And this is my <a href="https://react-portfolio-website-indol.vercel.app/" target="_blank">Portfolio</a></i> </h2>
+
+
 
 
 <div id="header" align="center">
@@ -42,7 +43,7 @@
 <details>
 <summary><h2>Resume</h2></summary>
 <p align="justify">
-As you can see on my <a href="https://www.linkedin.com/in/mardoqueu-sousa/">Linkedin</a>, I have spent the last 4 years working as an IT developer and teacher. In a typical day, I answer emails and review code, and then I have a quick 10-minute meeting with a project colleague about what I did yesterday, what I'm planning to do today, and if there are any roadblocks holding me back. Right after that, I write some code or first finish any code review comments. I continue coding and also study new courses and articles on Front-End and Back-End.
+As you can see on my <a href="https://www.linkedin.com/in/mardoqueu-sousa/">Linkedin</a>, I have spent the last years working as an IT developer and teacher. In a typical day, I answer emails and review code, and then I have a quick 10-minute meeting with a project colleague about what I did yesterday, what I'm planning to do today, and if there are any roadblocks holding me back. Right after that, I write some code or first finish any code review comments. I continue coding and also study new courses and articles on Front-End and Back-End.
  </p>
   
   
@@ -159,6 +160,13 @@ My next goal for the future is to grow in the tech sector and write a book about
     </a>
     </td>
   </tr>
+    <tr>
+    <td>
+    <a href="https://github.com/Mardoqueu/bookstore-front" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mardoqueu&repo=bookstore-front&theme=tokyonight&hide_border=true">
+    </a>
+    </td>
+  </tr> 
   <tr>
     <td>
     <a href="https://github.com/Mardoqueu/bookstore" target="_blank">
