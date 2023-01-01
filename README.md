@@ -236,7 +236,7 @@ My next goal for the future is to grow in the tech sector and write a book about
 <br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mardoqueu&langs_count=5&&theme=dark&show_icons=true)](https://github.com/Mardoqueu/github-readme-stats)
-<img src=https://user-images.githubusercontent.com/11077068/200310941-57e6fae2-b5a4-4980-8c0c-e92938857088.gif width="500" align='right'>
+<img src=https://user-images.githubusercontent.com/11077068/210180730-1d8f7ce6-eda3-497d-9a23-e71ed1f7886e.gif width="500" align='right'>
 
 
 
