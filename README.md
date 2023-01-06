@@ -1,6 +1,6 @@
 <h1>👋Hi, What's up?</H2>
 
-<h2> <i> My name is Mardoqueu, but you can call me Mike! And this is my <a href="https://react-portfolio-website-indol.vercel.app/" target="_blank">Portfolio</a></i> </h2>
+<h2> <i> My name is Mardoqueu, most people call me Mike, but you can call me anytime! Here's my <a href="https://react-portfolio-website-indol.vercel.app/" target="_blank">Portfolio</a></i> with my contact. </h2>
 
 
 
