@@ -35,8 +35,12 @@
 - [Curriculum Vitae](https://github.com/Mardoqueu/Mardoqueu/files/9820757/CV.-.Mardoqueu.Sousa.pdf)
 - [Portfolio](https://react-portfolio-website-indol.vercel.app/)
 
-<a href="https://stardev.io/developers/Mardoqueu"><img alt="Check out Mardoqueu's profile on stardev.io" src="https://stardev.io/developers/Mardoqueu/badge/languages/locality.svg" /></a>
+<hr>
 
+<div id="header" align="center">
+    <a href="https://stardev.io/developers/Mardoqueu"><img alt="Check out Mardoqueu's profile on stardev.io"              src="https://stardev.io/developers/Mardoqueu/badge/languages/locality.svg" /></a>
+
+  </div>
 
 <hr>
 
