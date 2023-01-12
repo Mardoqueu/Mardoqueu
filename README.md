@@ -19,6 +19,8 @@
   </a>
 </div>
       <img src="https://komarev.com/ghpvc/?username=mardoqueu&style=flat-square&color=blue" alt=""/>
+        <img src="https://wakatime.com/badge/user/d5bc1be3-cb91-45be-824f-1872950f7c79.svg" alt=""/>
+
 </div>
 
 <hr>
