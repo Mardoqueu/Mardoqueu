@@ -247,8 +247,8 @@ My next goal for the future is to grow in the tech sector and write a book about
 
 <div id="header" align="center">
 
-[![Mardoqueu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mardoqueu&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dark&show_icons=true )](https://github.com/Mardoqueu)
-  
+[![Mardoqueu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mardoqueu&show_icons=true&hide=&theme=dark&show_icons=true )](https://github.com/Mardoqueu)  
+
  </div>
 
 <hr>
