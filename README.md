@@ -34,8 +34,10 @@
 - 👯 I'm an experienced software engineer who constantly seeks out innovative solutions to everyday problems
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/mardoqueu-sousa/).
 - 😄 Pronouns: He/Him
-- [Curriculum Vitae](https://github.com/Mardoqueu/Mardoqueu/files/10429098/cv.docx)
+- [Curriculum Vitae - English Version](https://github.com/Mardoqueu/Mardoqueu/files/10490929/CV.Mardoqueu.Sousa.Telvina.-.English.version.docx)
 - [Portfolio](https://mardoqueu.vercel.app/)
+
+
 
 <hr>
 
