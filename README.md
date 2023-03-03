@@ -233,6 +233,13 @@ My next goal for the future is to grow in the tech sector and write a book about
     </a>
     </td>
   </tr>
+   <tr>
+    <td>
+    <a href="https://github.com/Mardoqueu/ecommerce-angular" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mardoqueu&repo=ecommerce-angular&theme=tokyonight&hide_border=true">
+    </a>
+    </td>
+  </tr>
 </table>
 <br>
 
