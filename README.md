@@ -32,7 +32,6 @@
 - 🔭 I am a positive, enthusiastic and competent Web Developer who, over the years, has built up a diverse range of skills, qualities and attributes that guarantee I will perform highly in this role.
 - 🌱 I’m currently building many projects with Angular, NextJS, JavaScript, Java, Node and using many more stacks, you can check it out on my Github
 - 👯 I'm an experienced software engineer who constantly seeks out innovative solutions to everyday problems
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/mardoqueu-sousa/).
 - 😄 Pronouns: He/Him
 - [Curriculum Vitae - English Version](https://github.com/Mardoqueu/Mardoqueu/files/10490929/CV.Mardoqueu.Sousa.Telvina.-.English.version.docx)
 - [Portfolio](https://mardoqueu.vercel.app/)
